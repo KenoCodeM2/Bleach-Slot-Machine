@@ -66,7 +66,11 @@ button {
 
 }
 
+<<<<<<< HEAD
 /* smaller screens, such as phones */
+=======
+/* Media query for smaller screens, such as phones */
+>>>>>>> a65957ed961c7b6904dffb8e0c808541e15502f2
 @media screen and (max-width: 768px) {
   .bleachlogo {
     width: 90%;
@@ -101,11 +105,19 @@ button {
   }
 
   .soulrepears img {
+<<<<<<< HEAD
     height: 150px
   }
 }
 
 /*medium screens, such as tablets */
+=======
+    height: 250px
+  }
+}
+
+/*Media query for medium screens, such as tablets */
+>>>>>>> a65957ed961c7b6904dffb8e0c808541e15502f2
 
 @media screen and (max-width: 1024px) {
 
