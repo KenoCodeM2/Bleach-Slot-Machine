@@ -86,7 +86,7 @@ button {
   }
 
   .soulrepears img {
-    height: auto; /* Adjust height based on image aspect ratio */
+    height: 250px
   }
 }
 
