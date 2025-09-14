@@ -13,7 +13,7 @@ const soulrepears = [
     "img/Aizen.avif",
     "img/Byakuya.jpg",
     "img/Ichigo.jpg",
-    "img/starrk.jpg",
+    "img/Starrk.jpg",
     "img/Yoruichi.jpg"
 ];
 
