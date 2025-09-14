@@ -1,2 +1,1 @@
-"# Bleach-Slot-Machine" 
-"# Bleach-Slot-Machine" 
+This is a bleach Slot Machine
