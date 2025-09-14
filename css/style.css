@@ -60,3 +60,50 @@ button {
   
   
 }
+
+/* Media query for smaller screens, such as phones */
+@media screen and (max-width: 768px) {
+  .bleachlogo {
+    width: 90%; /* Make logo larger on smaller screens */
+    height: auto;
+  }
+
+  h1, h2, h3 {
+    font-size: 24px; /* Adjust headings for mobile */
+  }
+
+  button {
+    font-size: 16px; /* Smaller button text for mobile */
+  }
+
+  .soulrepears {
+    flex-direction: column; /* Stack items vertically on small screens */
+    align-items: center; /* Center items in the column */
+  }
+
+  .reel1, .reel2, .reel3 {
+    width: 90%; /* Take up more width on smaller screens */
+  }
+
+  .soulrepears img {
+    height: auto; /* Adjust height based on image aspect ratio */
+  }
+}
+
+/* Optional: Media query for medium screens, such as tablets */
+
+@media screen and (max-width: 1024px) {
+  h1, h2, h3 {
+    font-size: 28px;
+  }
+
+  button {
+    font-size: 18px;
+  }
+
+  .reel1, .reel2, .reel3 {
+    width: 45%; /* Arrange items in two columns for tablets */
+  }
+}
+
+   
