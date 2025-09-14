@@ -63,4 +63,4 @@ function maxpower() {
     } else {
         document.querySelector("h2").innerText = "How can you continue with such low Spirtual Pressure?";
     }
-}
+} 
