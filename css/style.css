@@ -103,6 +103,9 @@ button {
   .soulrepears img {
     height: 150px;
   }
+  .minpower{
+    margin-bottom: 5%;
+  }
 }
 
 /*medium screens, such as tablets */
